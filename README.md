@@ -1,21 +1,13 @@
-# Waste_Management_Project
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/atharvadomale"><img src="https://avatars.githubusercontent.com/u/30715153?v=4?s=100" width="100px;" alt="MD REHAN"/><br /><sub><b>Sanjay KV</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3AREHAN-18" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Dataset Summary
-
-This dataset is a structured, multivariate, time-series dataset containing sensor readings for waste monitoring. It records various properties of waste materials collected from multiple sensors, categorized into three waste types: `recyclable`, `non_recyclable`, and `organic`.
-
-### Key Features:
-1. **Categorical Variables**:
-   - `sensor_id`: Unique identifier for each sensor.
-   - `waste_type`: Type of waste (`recyclable`, `non_recyclable`, `organic`).
-
-2. **Continuous Variables**:
-   - `inductive_property`: Measures inductive characteristics of waste.
-   - `capacitive_property`: Reflects capacitive properties.
-   - `moisture_property`: Indicates moisture content.
-   - `infrared_property`: Represents infrared properties.
-
-3. **Time-Series Component**:
-   - `timestamp`: Records the date and time of each sensor reading.
-
-This dataset is suitable for tasks such as exploratory data analysis, waste classification, and sensor performance monitoring.
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
