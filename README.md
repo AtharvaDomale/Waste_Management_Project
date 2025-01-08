@@ -113,3 +113,10 @@ The AI-powered waste classification system demonstrated high accuracy in segrega
    ```bash
    git clone https://github.com/your-repo-url/waste-management-ai.git
    cd waste-management-ai
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3.Load the dataset: Ensure waste_sensor_data.csv is in the working directory.
+4.Run the Jupyter notebook or Python script:
+   ```bash
+   jupyter notebook waste_management.ipynb
